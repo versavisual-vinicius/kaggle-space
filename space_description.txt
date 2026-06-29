@@ -1,0 +1,18 @@
+Kaggle Space Python + Jupyter Notebook
+
+Este Space é um scaffold pronto para uso com um ambiente Python configurado em `requirements.txt` e um notebook inicial `space.ipynb` para validar imports e execução básica de dados.
+
+Uso recomendado:
+- importar o repositório GitHub `versavisual-vinicius/kaggle-space`
+- selecionar ambiente Python
+- usar `requirements.txt` para instalar as dependências
+
+Pacotes incluídos:
+- numpy
+- pandas
+- matplotlib
+- scikit-learn
+- jupyter
+- ipykernel
+
+Este Space é ideal para prototipar notebooks Python, análises de dados e experimentos com datasets do Kaggle.
